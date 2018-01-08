@@ -1,0 +1,224 @@
+demand , substitution and income effect
+替代 normal inferior goods
+willingness ability 意愿能力 purchase  good  given price
+law of demand : price rise buy less price falls buy more
+demand function 
+	quantity fo demand
+	qxd = f(px,i,py,...)
+
+demand curve
+	price 决定了 quantity of demand
+	p纵坐标 q横坐标
+	q = f(p) demand fucntion
+	p = f(q) demand curve function 
+
+consumer surplus
+	the difference  between  highest price (on the demand curve)  actual price  utility
+
+substitution effect
+income effect
+	nominal income  real income real purchasing power
+when the price of A decreases, 
+
+normal goods
+inferior goods
+
+giffen goods 
+	giffen goods are inferior goods
+	substitution effect +2
+	income effect: -4
+	demand decrease as price decreases,demand curve has positive slope
+	negative income effect > positive substitution effect
+veblen gooods 显示身份地位
+	demand increase as price rises, goods are not inferior goods
+	demand curve has positive slope
+
+demand elasticity
+calculate interpret price income cross-pirce elasticity of demand
+	Edpx = % delta Q / % delta P = (delta Q / delta P) * ( P / Q)              slope = delta P / delta Q
+	
+A(5,10) B(10,5)
+
+Arc method (弧弹性)
+average quantity average price
+
+|Ep| = 1 unit elastic
+     > 1 elastic
+     < 1 inelastic
+
+delta TR % = delta Q % + delta P %
+|Ep| = 1
+demand elastic , price TR opposite direction
+demand inelastic , price TR same direction
+prefectly elastic 完全弹性 demand curve is horizontal
+prefectly inelastic 
+
+portion of income spent on a good
+	the larger the proportion of income spent on a good, the more elastic the demand for that good
+
+availiability and closeness of substitutes
+
+time
+
+income elasticity of demand
+
+EdI = % delta Qdx / % delta I = delta Q / delta I  *  I / Q
+normal good  positive income elasticity
+inferior good  negative income elasticity
+
+cross-price elasticity of demand
+Ed py = % delta Qdx / % delta Py = delta Qdx / delta Py * Py / Qdx
+
+substitutes(替代品): positive cross-price elasticity
+complements(互补品): negative cross-price elasticity
+
+Qx = 5 - 1/4Px + 10I + 1/4Py
+Px = 4 , I=10 , Py=8
+Ep = delta Q % / delta P % = delta Q / delta P * P/Q
+EI
+
+Revenue,cost,product
+diminishing marginal product
+profit
+opportunity costs
+explicit costs accounting costs
+implicit costs
+toatal economic cost = explicit costs + implicit costs  total opportunity cost
+economic profit
+accounting profit = total revenue = accounting costs (explicit costs)
+economic profit = total revenue = total economic costs
+		= accounting profit = implicit costs
+EP = AP - IC 财务利润 决定 经济利润
+EP = 0   normal profit 
+	the accounting profit that makes economic profit zero
+Total revenue 
+	TR = P * Q
+average revenue
+	AR = TR/Q = P*Q / Q = P
+mariginal revenue
+	one variablity change other changing in value
+	MR = delta TR / delta Q = delta (P*Q) /delta Q  
+	=P
+MR = AR = P 前提,公司没有定价权 pricing power
+the relationship between MR and price elasticity
+MR = P[1-(1/Ep)]
+MR = delta TR / delta Q  TR = P*Q
+P = f(Q)
+TR = f(Q)*Q
+MR = TR'(求导) = delta TR / delta Q = F(Q) + f'(Q)*Q
+	=P + delta P/delta Q *Q
+Ep = delta Q/delta P * P/Q
+	=p - p/Ep = p(1-1/Ep)
+Total fixed cost(TFC) sum of all fixed expenses
+total variable cost(TVC)
+TC
+AFC
+AVC
+ATC
+mariginal cost MC 
+MC = delta TC /delta Q = delta(TFC + TVC) / delta Q = delta TVC / delta Q
+factors of production
+	land labor capital materials
+labor capital
+assume only consider captial and labor
+Q=f(K,L)
+in the short-run capital is fixed,only consider labor
+Q=f(L)
+
+total product TP during a time period
+Average product (AP) APl= TP/L  
+marginal product (MP)
+	MPl = delta TP/ delta L
+L TP MP
+0 0  0
+1 5  5
+2 12 7
+3 20 8 
+4 27 7
+5 33 6
+
+increasing marginal return(product)
+diminishing marginal return(product)
+
+total product curve  slope= delta TP / delta Ql = MPl
+
+cost analysis in the short and long run
+TC(total cost) = TFC(total fixed cost) + TVC(total variable cost)
+slope = delta TC/ delta Q = MC
+具体一点的切线斜率，边际成本
+L Pl MPl MC
+1 100 10 100/10=10
+2 100 15 100/15=20/3 < 10
+3 100 12 100/12=25/3 > 20/3
+
+AFC = TFC/Q 
+
+MC intersects AVC and ATC at their minimun points
+
+Long-run average cost curve
+LRATC
+
+economies of scale (increasing returns to scale)(规模经济)
+A firm moves t o lower cost structures when it grows in sizes
+reasons:
+	division of labor
+	being able to afford more-expensive,but more-efficient equipment
+	effectively reducing waste and lowering costs
+	making better use of market information and knowledge
+	discounted price on resources when buying larger quantities
+
+diseconomies of scale (decresing returns to scale)(规模不经济)
+A firm becomes less efficient with size.
+reasons:
+	management inefficiency
+	overlap and dupliction of business functions
+	higer resource prices due to supply constraints
+
+minimum efficient scale (成本最低有效规模)
+the minimun point on the LRATC(long run average total cost)
+
+profit maximization
+profit-maximizing level of 
+breakeven shutdown
+short-run long-run
+
+perfect competition
+price taker  the individual firm has virtually no impact on market price
+identical products  small seller among a very large number of firms selling essentially
+horizontal demand curve   perfect elasticity
+P=MR
+MR = delta TR / delta Q = delta P*Q / delta Q = p*deltaQ /delta Q = P
+
+imperfect competition
+price maker exert some influence over price
+downward-sloping demand curve
+
+P=a+bQ
+TR = P*Q = aQ + bQ^2
+MR = delta TR / delta Q = a + 2bQ
+
+profit maximization
+profit = total revenue - tatal cost
+the difference between TR and TC is the greatest
+
+垂直距离最大
+MR = MC 当边际收入 等于 边际成本，实现利润最大化
+
+profit = TR - TC  => MR-MC =0  => MR = MC
+
+shutdown and breakeven point
+AR >= ATC , firm stay in the market AR*Q >= ATC*Q -> TR>TC => TR-TC >=0 (profit)
+ATC > AR >= AVC  ATC*Q>AR*Q>=AVC*Q TC>TR>=TVC stay in market in the short run ,but will exit the market in the long run
+AR < AVC  AR*Q < AVC*Q  TR<TVC ,firm shut down in th short run and exit the market in the long run
+
+short-run shutdowm point  AR<AVC
+long-run shutdown point AR<ATC
+breakeven point TR=TC
+P=AR=MR=ATC  breakeven
+
+short-run equilibrium
+MR=MC=P
+maximizing profit minimum loss
+
+long-run equilibrium
+MR=MC=P=ATC

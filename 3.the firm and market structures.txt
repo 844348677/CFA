@@ -1,0 +1,80 @@
+perfect competition
+five factors determine market sturcture
+
+characteristics of perfect competition
+large number of potential buyers and sellers
+virtually identical
+few barries to entry and exit
+price taker no market pricing power
+non-price competition is absent
+
+short-run equilibrium MC = MR=P   demand curve horizontial
+
+short run supply
+
+完全竞争的企业，明确的供应曲线，其他不行，其他有定价权
+
+monopolistic competition
+differentiated products
+some pricing power
+
+profit maximization input : MC=MR  TR-TC maximizations
+P* - ATC 
+demand curve individual demand curve not totally
+TR = P*Q = aQ + bQ^2
+MR = delta TR / delta Q = a + 2bQ
+
+perfect competition demand curve MR curve is samiler
+
+firms are free to entry and exit
+demand shift to left
+demand curve ATC 
+P = ATC
+
+downward-sloping, highly elastic
+E = 1/slope * P/Q
+
+monopoly
+characteristics of monopoly
+single seller
+no close substitute
+considerable pricing power
+
+type of barriers to entry
+government licensing and legal barries
+resource control
+natural monopoly
+ecomomies of scale cost of production is lowest
+productiong is based on significant economies of scale and declining cost structures in the market
+MC is lower but TFC total fixed cost is higher
+
+MC=MR => Q* demand cure => P* positive economic profit P* > ATC*
+
+D=MB intersect MC 
+DWL 
+
+average const pricing : p=ATV , no economic profit
+marginal cost pricing : P=MC , government subsidy
+
+price discrimination 价格歧视
+charging different consumers different prices for same product or service
+
+perfect price discrimination
+first-degree price discrimination
+charging each customer the highest price the customer is willing to pay
+
+second-degree price discrimination
+monopolist offers a menu of quantity based pricing
+
+oligopoly
+characteristics of oligopoly 寡头
+
+kinked demand curve model 拐折需求线模型
+
+Nash equilibrium
+
+collusion
+
+dominant firm DF 主导企业
+
+
