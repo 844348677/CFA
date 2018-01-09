@@ -1,0 +1,109 @@
+infaltion
+inflation 通货膨胀 a sustained rise in the overall level of prices
+inflation rate
+stagflation
+high inflation high unemployment rate
+AS curve shift to the right
+deflation
+negative inflation rate
+demand is lower  slowdown of the economy
+hyperinflation
+a extremely high inflation
+disinflation 通胀收缩 
+positive inflation rate but declining inflation rate
+
+indices used to measure inflation
+laspeyres index 拉斯拜尔指数
+holding the composition of the comsumption basket constant (as the base year)
+
+wine  10 100   12 120
+bread 1  1000  1.5 1500
+12*100 + 1.5*1000 / 10*100 + 1*1000 
+
+bias from using the Laspeyres index
+substitution bias, quality bias, new product bias
+
+Paasche index 
+12*120 + 1.5*1500 / 10*120 + 1*1500
+
+Fisher index
+
+Consumer price index(CPI)
+	The value of a basket of goods and service bought by a typical consumer
+Laspeyres index
+CPI = (cost of basket at current prices)/(cost of basket at base period prices)
+producer price index(PPI)
+	The value of a basket of goods and service bought by firms
+	PPI influence the future CPI
+
+Headlin inflation 整体通胀
+
+core inflation 核心通胀
+	exclude food and energy
+	food and energy prices are subject to large short-term fluctuations that can magnify th true inflation rate
+cost-push inflation 成本推动通胀
+	an initial increase in costs result in a decrease in AS
+characteristics
+	high inflation
+	unemployment rate >natural rate
+
+demand-pull inflation 需求拉动通胀
+	an initial increase in AD
+characteristics
+	actual GDP > potential GDP
+	unemployment rate < natural rate2018/1/9
+
+leading indicators
+interest rate spread between 10-year treasury yields and overnight borrowing rates(federal funds rate)
+
+coincident indicators 同步指标
+industrial production index
+
+lagged indicators 滞后指标
+unemployment rate
+
+business cycle
+peak contraction trough expansion 
+
+neoclassical
+keynesian
+new Keynesian
+monetarist
+Austrian
+new classical
+
+unemployment
+employment
+	not include informal sector, unlicensed cab drivers, illegal workers
+labor force
+	number of people who either have a job or are actively looking for a job
+unemployed
+	people who are actively seeking employment but are currently without a job.
+underemployment 未充分就业
+	people who has a job has the qualification to work a higher-paying job
+dicouraged worker 灰心气馁的工人
+	person who has stopped looking for a job
+voluntarily unemployment 自愿失业
+	person voluntarily outside the labor force,such as a jobless worker refusing an available vacancy
+	for which the wage is lower than their threhold or those who retired early
+
+unemployment rate
+	ratio of unemployment to labor force
+the unemployment rate is a lagged indicator 滞后指标
+	discouraged workers in and out of labor market
+	firms are reluctant to lay off people
+participation ratio(activity ratio) 劳动参与率
+	labor force / working-age porpulation
+
+types of unemployment
+frictional unemployment 摩擦性失业
+	results from the it takes employers and employees to find each other
+structural unemployment 结构性失业
+	results from long-term changes in the economy that require workers to gain new skills to fill new jobs
+cyclical unemployment 
+	full employment
+	
+
+
+
+

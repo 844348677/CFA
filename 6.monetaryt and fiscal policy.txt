@@ -1,0 +1,163 @@
+monetary policy
+monetary policy 货币政策
+	the quantity of money
+fiscal policy
+	taxation and spending
+budget surplus 预算盈余
+	
+functions of money
+	medium of exchange
+	store of wealth
+	measure of value (unit of account) 记账单位
+definitions of money
+	narrow money M1
+	notes and coins, traveler's cheques 旅行支票,demand deposits 活期存款 and other deposit
+	broad money M2
+	M1+timedeposit(less than $100,000),other balances in retail money market and mutual funds
+
+money creation process
+base currency = 100
+reserve requirement = 10% 准备金
+
+money multiplier 货币乘数 = 1/reserve requirement
+money created = new deposit * money multiplier
+	= new deposit/reserve requirement
+fisher effect 
+rnom = rreal + expected inflation
+the nominal intererst rate is the sum fo the real interest rate and expected inflation
+
+to account for uncertainty of future , the nomimal interest rate is comprised of:
+	required rate of return
+	expected inflation
+	risk premium
+
+roles of the central bank
+monopoly supplier of the currency
+banker to the government adn the bankers' bank
+lender of last resort
+
+qualities of effective central banks
+central bank independence
+operational independence 操作独立
+	central bank was free to set interest rates
+Target independence 目标独立
+	central bank was free to set target inflation rate
+credibility
+
+Transparency
+
+policy targeting of central bank
+interest rate targeting
+	increasing money supply when market interest rates above the target and decreasing money supply when rates below the target
+inflation targeting
+	a contractionary monetary policy reduces inflation rate when inflation rate above the target
+
+cost of  expected inflation 
+	menu cost 菜单成本 改菜单
+	shoe leather cost 鞋底成本 去银行
+
+cost of unexpected inflation
+	inequitable transfers of wealth between borrowers and lenders
+	rnominal = rreal + expected inflation
+	give rise to risk premium in borrowing rates and the prices of other assets
+
+monetary policy tools 三种
+open market operations 公开市场操作
+	buy short-term bond,increase money supply;sell short-term bond, decrease money supply
+	repurchase agreement, decrease money supply; reverse repurchase agreement,increase money supply
+policy rate (discount rate) 基准利率
+	policy rate rises, money supply decreases;policy rate falls, money supply increases
+reserve requirements 准备金要求
+	reserve requirements falls,money supply increases
+
+monetary transimission mechanism
+banks' short-term lending rates will increase in line with increase of policy rate higher rates will decrease AD
+
+an expansionary monetary policy tends to increase GDP, increase price level, decrease the interest rate and decrease the value fo local currency
+shift AD curve to the right
+
+a contratioanry monetary policy tends to decrease GDP,decrease price level,increase the interest rate and increase the value of local currency
+
+determining the direction of monetary policy
+neutral interest rate of an economy
+	the growth rate of the money supply neither spurs nor slows down the economic growth rate
+neutral interest rate 中性利率
+	= real trend rate of economic growth + inflation target
+
+limitations of monetart policy
+central bank cannot control the exact level of money supply
+	the amount of money households and corporations put in banks
+	willingness of banks to create money
+
+bond market vigilantes 债市义勇军
+
+liquidity trap 流动性陷阱
+if demand for money is very elastic, people will hold currency even as money supply increase.short-term rates cannot be below zero
+
+quantitative easing QE 量化宽松
+
+fiscal policy
+roles and objectives of fiscal policy
+discretionary fiscal policy 相机财政政策
+	
+automatic stabilizers 自动稳定器
+
+government spending
+transfer payments 转移支付 poor,old,or unemployed
+current government spending goods and services
+capital expenditure roads,hospitals,schools
+government revenues
+direct tax
+	income,wealth,corporate profits and include capital gains taxes
+indiret tax
+	goods and services 
+
+advantages
+	indirect taxes can be adjusted almost immediately after they are announced and can influence spending
+	behavior instantly and generate revenue for the government at little or no cost to the government
+disadvantages
+	direct taxes are more difficult to change
+	capital spending plans take longer to fornulate
+
+arguments for being concerned about national debt
+MV = PY
+M rises => P rises
+higeher tax rates
+
+lose confidence in a government
+
+crowding out effect 排挤效应
+
+arguments against being concerned about national debt
+
+recardian equivalence 李嘉图均衡
+
+fiscal policy
+limitations of dicretionary fiscal policy
+
+recoginition lag 识别滞后
+time for government to process data and figure out the problem
+action lag 行动滞后
+
+impact lag 影响滞后
+time for the policy to become evident
+
+marcoeconomic issues hinder usefulness of fiscal policy
+unemployment and inflation
+
+determining direction of fiscal policy
+structural budget deficit 结构预算赤字
+the deficit that would exist if the econony was at full employment
+
+contractionary fiscal
+
+easy fiscal policy/ tight monetary policy
+interest rates will rise and have a negative effect on private sector demand
+
+tight fiscal policy/ easy monetary policy
+
+easy monetary policy / easy fiscal policy
+
+tight monetary policy / tight fiscal policy
+
+

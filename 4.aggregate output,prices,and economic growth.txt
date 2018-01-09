@@ -1,0 +1,213 @@
+gross domestic product GDP
+the total market value of the goods and services producted in a country within a certain time period.
+ measure of gdp
+aggregate oupput
+aggregate income
+aggregate expenditure
+aggregate output = aggregate income = aggregate expenditure
+
+value of final output and sum of value added
+receipts at each stage value added at each stage
+
+nominal gdp 
+	GDP measured by current prices
+Real GDP 
+	GDP measure by constant prices
+GDP deflator GDP平减指数
+	= (Nominal GDP/Real GDP)*100
+
+wine 100 5 110 6
+bread 1000 1 1200 1.5
+real GDP = 110*5 + 1200*1
+nomimal GDP = 110*6+1200*1.5
+GDP deflater = nominal / real *100
+
+GDP = C + I + G + (X-M)
+C:consumer spending on final goods and services
+I:gross private domestic investment(e.g.,plant and equipment) and changes in inventory(inventory investment)
+G:government spending on final goods and services
+X:exports
+M:imports
+
+national income
+	= employees'wages and benefit 
+	+ corporate and government profits pre-tax => direct tax
+	+ interest income
+	+ unincorporated business oweners' income 
+	+ rent 
+	+ indirect business taxes 间接税
+	- subsidies
+
+
+personal income
+	= national income
+	- indeirect business taxes
+	- corporate income taxes
+	- undistributed corporate profits = retained earning
+	+ transfer payments
+personal dispensable income 个人可支配收入
+	= personal income = personal tax
+
+aggregate demand
+
+using the expenditure approach
+GDP = C+I+G+(X-M)
+using the income approach 
+GDP = C+S+T
+S: household and business savings
+T: tax
+C+I+G+(X-M) = C+S+T
+
+S-I = (G-T)+(X-M)
+G-T : fiscal balance
+G-T >0 ,government deficit
+G-T <0 , government surplus
+
+X-M : net exports or trade balance
+X-M >0 , trade surplus
+X-M <0 , trade deficit
+
+IS curve
+aggregate income(AI) = Aggregate expenditure(AE)
+S = I+(G-T)+(X-M)
+to simplify we ignore the government and foreign sector
+S(Y) = I(r) 
+
+marginal propensity to consume (MPC) 边际消费倾向
+the proportion of additional income spent on consumption
+MPC + MPS = 1  MPS marginal propensity to save
+
+IS curve income Y real interest rate,r
+IS curve persent an inverse relationship between income and real interest rate
+
+r rise => i down
+S down => Y down
+r down => i rise
+S rise => Y rise
+
+quantity theory of money
+MV = PY
+M : money supply
+V : velocity of money in transaction
+P : price level
+Y : Real GDP
+
+monetarists consider that velocity of money and reak GDP change only slowly
+money neutrality: change of money supply only cause flucuation of price level and 
+	doesn't affect real output in long run
+
+Keynes's demand for money theory
+Ms / P = Md(r,Y)
+
+transactions demand for money 交易性货币需求
+transaction demand rising with larger GDP
+
+Precautionary demand for money 预防性货币需求
+precautionary demand rising with larger GDP
+
+speculative demand form money 投机性货币需求
+speculative demand rising with lower interest rate
+
+supply of money is determined by the central bank and is not affected by changes in interest rates
+
+LM curve
+money demand = money supply
+Md(r,Y),increases with the decrease of interest rate and the rise of GDP
+positive relationship between income and the real interest rate
+Md rising with lower r => Md rising with larger
+
+IS-LM curve
+aggregate income = aggregate expenditure
+real output and real interest rate
+
+aggregate supply
+
+very short run
+	companies increase or decrease output to some degree without changing price
+	very short run aggregate supply VSRAS curve is perfectly elastic
+long run
+	perfectly inelastic
+	the level of output as potential GDP 潜在GDP
+	full employment GDP 充分就业GDP
+	natural rate of unemployment 自然失业率
+
+short-run aggregate supply curve is upward sloping
+profit = TR -TC
+
+factors that shift the aggregate demand
+GDP = C + I + G + X - M
+price level output
+AD
+
+fiscal policy
+monetary policy
+AD shift to right
+
+capacity utilization 资本利用率 产能利用率
+the exchange rate
+growth in global economy
+
+factors that shift the short-run aggregate supply
+nominal wages
+input price , including the price of natural resources
+expectations about future output prices and the overall price level
+business taxes and subsidies
+the exchange rate
+
+recessionary gap, inflationary gap, stagflation
+recessionary gap 衰退差
+shift AD to the left
+real GDP = C + I + G + X - M
+actual GDP < Potential GDP
+Y2<Y1
+Unemployment rate > Natural rate
+
+policy choice
+do nothing since there is a self-corecting mechanism
+fiscal and monetary policy to shift AD to he right
+
+inflationary gap
+actual GDP > potential GDP
+unemployment < natural rate
+
+policy choice:
+do nothing since there's a self-correcting mechanism
+fiscal and monetary policy to shift AD to the left
+
+stagflation
+high inflation
+unemployment rate > natural rate
+
+economic growth
+sources of economic growth
+labor supply
+human capital
+physical capital
+technology
+natural resources
+
+production function
+Y = A f(L,K)
+A : total factor productivity 全要素生产率 or technology
+L:labor K:capital
+growth in potential GDP = growth in technology + Wl(growth in labor) + Wc(growth in capital)
+LRAS => Y* shift LRAS curve to the right
+
+output per worker
+Y/L = A f(K/L)
+Y/L = A f(L/L , K/L) => Y/L = A f(K/L)
+growth in potential GDP = growth in technology + Wc(growth in capital-to-labor ratio)
+
+measures of sustainable growth
+labor productivity
+	the quantity of goods and services that a worker can produce in one hour of work
+labor productivity = real GDP / aggregate hours works
+proential GDP = aggregate hours worked * labor productivity
+protential GDP growth rate = long-tem growth rate    labor force + long-term labor productivity growth
+
+total factor productivity Y=Af(K,L)  A:total factor productivity
+
+Labor productivity can be directly measured as output/hour
+
+
+
