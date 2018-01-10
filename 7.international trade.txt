@@ -1,0 +1,153 @@
+international trade
+GDP and GNP
+basic terminology
+open economy 
+	an economy that trades with other countries
+closed economy 
+	autarkic economy 自给自足经济, no trade with other countries
+free trade
+
+trade protection
+
+terms of trade 贸易比价
+	the ratio of index of the prices of a country's exports to an index of the prices of its imports
+	expressed relative to a base value of 100
+Px/Pm
+
+gross domestic product GDP 国内生产总值 country's borders over a period
+
+gross national product GNP 国民生产总值 country's citizens
+
+benefits and costs of international trade
+benefits
+	deepening specialization
+	promote competition and increase welfare
+	enlarge GDP
+costs
+	greater inequality
+	unemployment in import countries
+
+absolute advantage
+	a country is able to produce good at a lower cost or use fewer resources in its production than its trading partner
+comparative advantage 
+	a country's opportunity cost of producing that good is less than that of its trading partner
+
+A 3 4
+B 9 8
+B has absolute advantage on both
+B has comparative advantage on meat but A has comparative advantage on potatoes
+
+A 4/3 3/4
+B 8/9 9/8
+
+models of international trade
+Ricardian model 李嘉图模型
+	a country can gain from trade, if only it has a comparative advantage.
+
+Heckscher-Ohlin model 赫克歇尔-俄林模型
+	trade is driven by relative factors including labor and capital abundance,the source of comparative advantage
+	labor abundant countries export goods that are labor intensize in their production
+	capital abundant countries export goods that are capital intensive in their production
+
+trade and capital resrictions
+
+reasons for trade restrictions
+infant industry 新兴行业 贸易保护
+national security
+protecing domestic jobs
+protecting domestic industries
+
+types of trade restrictions
+tariffs 关税
+	taxes that a government levis on imported goods
+quotes 配额
+	restrict the quantity of a good that can be imported into a country
+export subsidies 出口补贴
+	government payments to firms that exports goods
+voluntary export restraint 自愿出口限制 VER
+	
+welfare of tariff and import quota for imorting country
+consumer surplus -(A+B+C+D)
+producer surplus +A
+Tariff revenue or Quota rents +C
+national welfare -B-D
+
+quota may not have tariff which is C
+
+effects of trade policy
+
+natioanl co-operation
+
+free trade areas 自由贸易区
+customs union 关税联盟
+	FTA plus a common trade policy against non-memebers
+common market 共同市场
+	free flow of labor and capital goods among member countries
+economic union 经济联盟
+	common institutions and economic policy for th union
+monetary union 货币联盟
+	common currency
+
+common objectives of capital restrictions
+reduce te volatility of domestic asset prices
+maintain fixed exchange rates
+keep domestic interest rates low
+protect strategic industries
+
+balance of payment
+current account 经常账户 measure the flow of goods and services
+merchandise trade
+	all commodities and manufactured goods bought,sold,or given away
+services
+	tourism,transportation,engineering and business services
+income receipts
+	投资本金不报错在 current account, 收益包括在 current account
+	income derived from ownership of assets such as dividends,interest payments,income on foreign investment
+unilateral transfers 单边
+	one-way transfers of assets such as worker remittances and foreign direct aid or gifts
+
+capital account 资本账户 measure transfers of capital
+capital transfers
+	debt forgiveness and migrants' transfers 移民资产
+sales and purchases of non-produced,non-financial assets
+	patents, copyrights,trademarks,franchises
+	natural resources
+
+financial account 金融账户 records investment flows
+government-owned assets abroad
+	gold,foreign currencies,foreign securities,reserve in th IMF,direct foreign investment
+foreign-owned assets in the reporting country
+	domestic government and corporate securities, direct investmeng in the domestic country,domestic country currency
+
+delta current account + delta capital account + delta financial account = 0
+deficit surplus
+
+aggregate income AI = aggregate expenditure AE
+
+C+S+T=C+I+G+(X-M)
+(X-M)=S-I+(T-G)
+current account balance = X-M
+current account = Sp+Sg-I
+Sp : private sector saving S
+Sg : government savings (T-G)
+
+delta current account => deficit => Sp+Sg-I<0
+delta financial account => surplus ignore capital account
+trade deficit can result from
+a lack of private savings
+a lack of government savings
+booming investment
+
+international monetary fund
+
+world bank group long-term 
+
+world trade organizations regulates cross-border trade relationships
+
+acting as a platform for negotiations
+settling disputes
+
+
+
+
+
